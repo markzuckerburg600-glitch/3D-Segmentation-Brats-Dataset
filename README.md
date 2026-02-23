@@ -1,4 +1,4 @@
-# 3D-Segmentation-Brats-Dataset
+# 3D-Segmentation-Brats-Dataset + Learning monai
 
 ## Results
 <h3>
@@ -13,3 +13,4 @@
 </h3>
 
 ## Only used 46 volumes btw, monai augmentations are really good!
+- a lot is similar to monai tutorial btw 
